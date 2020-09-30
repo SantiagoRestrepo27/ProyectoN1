@@ -125,7 +125,6 @@
           echo("********************************************");
           echo("<br>");
           echo("El total de la compra fué de: ".$total);
-
       ?>
   </h6>
 <?php endif ?>
